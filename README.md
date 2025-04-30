@@ -35,7 +35,7 @@ https://seven1an.github.io/2025/02/26/%E5%9F%BA%E4%BA%8EChrome%E6%89%A9%E5%B1%95
 
 ​	1.命令行`Chrome.exe --load-extension="fkc_ext路径"`	来加载插件启动Chrome
 
-![image-20250226111922128](./img/1.png)
+![image-20250226111922128](/img/1.png)
 
 ​	此时Chrome会自动打开并加载插件 这时等待受害者使用
 
